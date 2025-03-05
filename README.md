@@ -32,9 +32,8 @@ Actualmente, me estoy especializando en **Inteligencia Artificial y Big Data**, 
 ---
 
 ## 📌 **Proyectos Destacados**
-🔹 [**Parking Morella**](https://github.com/proyectoFinalDAW) - Web para la gestión del parking público de mi pueblo.  
-🔹 **[Tu próximo proyecto...]**  
-
+🔹 [**Parking Morella**](https://github.com/IvanYeste/proyectoFinalDAW) - Web para la gestión del parking público de mi pueblo.  
+🔹 Estoy trabajando en un proximo proyecto con Unity usando MLagents
 ---
 
 ## 🎯 **Objetivos y Aprendizajes**
