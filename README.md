@@ -1,52 +1,54 @@
-# 👋 ¡Hola, soy Iván Yeste Antolí!
+# 👋 Hi, I'm Iván Yeste Antolí!
 
-💻 Desarrollador Full-Stack | 📊 Especializándome en IA y Big Data  
-🔎 Actualmente **buscando oportunidades laborales** en desarrollo de software, IA o análisis de datos.  
-
----
-
-## 🚀 **Sobre mí**
-Soy un apasionado del desarrollo de software con formación en **DAM (Desarrollo de Aplicaciones Multiplataforma)** y **DAW (Desarrollo de Aplicaciones Web)**.  
-Actualmente, me estoy especializando en **Inteligencia Artificial y Big Data**, explorando nuevas tecnologías para el procesamiento y visualización de datos.
+💻 Full-Stack Developer | 📊 Specializing in AI and Big Data  
+🔎 Currently **seeking job opportunities** in software development, AI, or data analysis.
 
 ---
 
-## 🔧 **Tecnologías y Habilidades**
-### 🖥 **Desarrollo Multiplataforma (DAM)**
-- Java, Python, C#
-- MySQL
-- HTML y CSS
-
-### 🌐 **Desarrollo Web (DAW)**
-- JavaScript
-- HTML y CSS avanzado
-- SSH y administración básica de servidores
-- WordPress y diseño web
-
-### 🤖 **Especialización en IA y Big Data**
-- **Lenguajes:** Python avanzado, C++
-- **Machine Learning:** Modelos de aprendizaje supervisado y no supervisado
-- **Big Data:** Hadoop, procesamiento y tratamiento de datos a gran escala
-- **Visualización:** Power BI
+## 🚀 **About Me**  
+I'm passionate about software development with a background in **DAM (Multiplatform Application Development)** and **DAW (Web Application Development)**.  
+Currently specializing in **Artificial Intelligence and Big Data**, exploring new technologies for data processing and visualization.
 
 ---
 
-## 📌 **Proyectos Destacados**
-🔹 [**Parking Morella**](https://github.com/IvanYeste/proyectoFinalDAW) - Web para la gestión del parking público de mi pueblo.  
-🔹 Estoy trabajando en un proximo proyecto con Unity usando MLagents
+## 🔧 **Technologies & Skills**
+
+### 🖥 **Multiplatform Development (DAM)**
+- Java, Python, C#  
+- MySQL  
+- HTML & CSS
+
+### 🌐 **Web Development (DAW)**
+- JavaScript  
+- Advanced HTML & CSS  
+- SSH and basic server administration  
+- WordPress and web design
+
+### 🤖 **Specialization in AI and Big Data**
+- **Languages:** Advanced Python, C++  
+- **Machine Learning:** Supervised and unsupervised learning models  
+- **Big Data:** Hadoop, large-scale data processing  
+- **Visualization:** Power BI
+
 ---
 
-## 🎯 **Objetivos y Aprendizajes**
-✔ Seguir mejorando en **Machine Learning y análisis de datos**.  
-✔ Profundizar en **Hadoop y procesamiento de datos a gran escala**.  
-✔ Aplicar técnicas avanzadas en **visualización con Power BI y dashboards interactivos**.  
+## 📌 **Highlighted Projects**  
+🔹 [**Parking Morella**](https://github.com/IvanYeste/proyectoFinalDAW) – Web application for managing the public parking system in my hometown.  
+🔹 Currently working on a new project using Unity and ML-Agents.
 
 ---
 
-## 📫 **¡Conéctate conmigo!**
+## 🎯 **Goals & Learning Objectives**
+✔ Continue improving in **Machine Learning and data analysis**  
+✔ Deepen my knowledge of **Hadoop and large-scale data processing**  
+✔ Apply advanced techniques in **Power BI and interactive dashboards**
+
+---
+
+## 📫 **Connect With Me!**  
 🔗 **LinkedIn:** [Iván Yeste Antolí](https://www.linkedin.com/in/ivan-yeste-antolí-a4a136304/)  
 📧 **Email:** ivanyesteantoli@gmail.com  
 
 ---
 
-🚀 **¡Gracias por visitar mi perfil!** Si tienes alguna oportunidad o colaboración, no dudes en escribirme. 😊
+🚀 **Thanks for visiting my profile!** If you have any opportunity or collaboration in mind, feel free to reach out. 😊
