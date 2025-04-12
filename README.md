@@ -33,14 +33,19 @@ Currently specializing in **Artificial Intelligence and Big Data**, exploring ne
 ---
 
 ## 📌 **Highlighted Projects**  
-🔹 [**Parking Morella**](https://github.com/IvanYeste/proyectoFinalDAW) – Web application for managing the public parking system in my hometown.  
+🔹 [**Parking Morella**](https://github.com/IvanYeste/proyectoFinalDAW) – Web application for managing the public parking system in my hometown.
+
+🔹 [**Sory Teller with AI**](https://github.com/IvanYeste/StoryTeller_With_AI) –  program made with C++ that uses AI models to generate stories and stores them in a dynamically allocated memory list.  
+
+🔹 [**Sanderson Reddit Analysis**](https://github.com/IvanYeste/Sanderson_Reddit_Analysis) –A Python program that collects Reddit posts about Sanderson's books, exports the data to CSV files, and visualizes the information through graphs.
+
 🔹 Currently working on a new project using Unity and ML-Agents.
 
 ---
 
 ## 🎯 **Goals & Learning Objectives**
 ✔ Continue improving in **Machine Learning and data analysis**  
-✔ Deepen my knowledge of **Hadoop and large-scale data processing**  
+✔ Continue learning  **C++**  
 ✔ Apply advanced techniques in **Power BI and interactive dashboards**
 
 ---
