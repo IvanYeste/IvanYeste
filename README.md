@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Iván Yeste Antolí!
+# 👋 Hi, I'm Ivan Yeste Antolí!
 
 💻 Full-Stack Developer | 📊 Specializing in AI and Big Data  
 🔎 Currently **seeking job opportunities** in software development, AI, or data analysis.
